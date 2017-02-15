@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AdminMenuConfig>
+  <AdminMenuGroups>
+    <AdminMenuGroup name="管理首页" url="/Auth/Index" icon="icon-home" info="欢迎登录GMS系统！">
+    </AdminMenuGroup>
+    
+    <AdminMenuGroup name="系统管理" icon="icon-cog">
+      <AdminMenuArray>
+        <AdminMenu name="用户管理" url="/Account/User/Index" info="添加修改删除用户" />
+        <AdminMenu name="角色管理" url="/Account/Role/Index" info="添加修改删除角色"  />
+      </AdminMenuArray>
+    </AdminMenuGroup>
+    
+    <AdminMenuGroup name="播放器" url="/Player/Index" icon="icon-play" info="欢迎登录GMS系统！">
+    </AdminMenuGroup>
+    <AdminMenuGroup name="媒体库" url="/Media/Index" icon="icon-film" info="欢迎登录GMS系统！" permission="Media_Manage" >
+    </AdminMenuGroup>
+    
+
+  </AdminMenuGroups>
+</AdminMenuConfig>

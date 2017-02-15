@@ -1,0 +1,9 @@
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\FrameWork.Dao\bin\Debug\FrameWork.Dao.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\FrameWork.Dao\bin\Debug\FrameWork.Dao.pdb
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\FrameWork.Dao\bin\Debug\EntityFramework.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\FrameWork.Dao\bin\Debug\Framework.Contract.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\FrameWork.Dao\bin\Debug\Framework.Contract.pdb
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\FrameWork.Dao\bin\Debug\EntityFramework.xml
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\FrameWork.Dao\obj\Debug\FrameWork.Dao.csprojResolveAssemblyReference.cache
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\FrameWork.Dao\obj\Debug\FrameWork.Dao.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\FrameWork.Dao\obj\Debug\FrameWork.Dao.pdb

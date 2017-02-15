@@ -1,0 +1,5 @@
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Contract\bin\Debug\Core.Contract.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Contract\bin\Debug\Core.Contract.pdb
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Contract\obj\Debug\Core.Contract.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Contract\obj\Debug\Core.Contract.pdb
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Contract\obj\Debug\Core.Contract.csprojResolveAssemblyReference.cache

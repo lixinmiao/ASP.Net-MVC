@@ -1,0 +1,69 @@
+﻿@model IEnumerable<MFAdminASPNET.Models.LoginInfo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.LoginToken)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastAccessTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LoginName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ClientIP)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EnumLoginAccountType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BusinessPermissionString)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.LoginToken)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastAccessTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LoginName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ClientIP)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EnumLoginAccountType)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BusinessPermissionString)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

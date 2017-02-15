@@ -1,0 +1,6 @@
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Log\bin\Debug\Core.Log.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Log\bin\Debug\Core.Log.pdb
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Log\bin\Debug\log4net.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Log\bin\Debug\Newtonsoft.Json.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Log\obj\Debug\Core.Log.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Log\obj\Debug\Core.Log.pdb

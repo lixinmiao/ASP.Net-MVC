@@ -1,0 +1,9 @@
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Cache\bin\Debug\Core.Cache.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Cache\bin\Debug\Core.Cache.pdb
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Cache\bin\Debug\Core.Config.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Cache\bin\Debug\Framework.Utility.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Cache\bin\Debug\Core.Config.pdb
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Cache\bin\Debug\Framework.Utility.pdb
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Cache\obj\Debug\Core.Cache.csprojResolveAssemblyReference.cache
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Cache\obj\Debug\Core.Cache.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Core.Cache\obj\Debug\Core.Cache.pdb

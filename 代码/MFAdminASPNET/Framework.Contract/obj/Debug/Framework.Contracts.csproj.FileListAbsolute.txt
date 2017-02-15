@@ -1,0 +1,4 @@
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Contract\bin\Debug\Framework.Contract.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Contract\bin\Debug\Framework.Contract.pdb
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Contract\obj\Debug\Framework.Contract.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Contract\obj\Debug\Framework.Contract.pdb

@@ -1,0 +1,13 @@
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Utility\bin\Debug\Framework.Utility.dll.config
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Utility\bin\Debug\Framework.Utility.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Utility\bin\Debug\Framework.Utility.pdb
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Utility\bin\Debug\EntityFramework.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Utility\bin\Debug\EntityFramework.SqlServer.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Utility\bin\Debug\Newtonsoft.Json.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Utility\bin\Debug\EntityFramework.xml
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Utility\bin\Debug\EntityFramework.SqlServer.xml
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Utility\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Utility\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Utility\obj\Debug\Framework.Utility.dll
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Utility\obj\Debug\Framework.Utility.pdb
+G:\MyGit\ASP.NET MVC\代码\MFAdminASPNET\Framework.Utility\obj\Debug\Framework.Utility.csprojResolveAssemblyReference.cache
