@@ -1,0 +1,5 @@
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Core.Log.dll
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Core.Log.pdb
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.csprojResolveAssemblyReference.cache
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.dll
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.pdb

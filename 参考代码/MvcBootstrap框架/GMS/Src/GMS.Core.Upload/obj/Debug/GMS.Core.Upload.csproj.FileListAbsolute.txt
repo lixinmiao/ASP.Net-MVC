@@ -1,0 +1,5 @@
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Core.Upload.dll
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Core.Upload.pdb
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csprojResolveAssemblyReference.cache
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.dll
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.pdb

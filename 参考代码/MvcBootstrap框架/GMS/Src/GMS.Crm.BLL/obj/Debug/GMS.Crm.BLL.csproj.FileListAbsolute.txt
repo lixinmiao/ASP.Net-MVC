@@ -1,0 +1,5 @@
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Crm.BLL.dll
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Crm.BLL.pdb
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Crm.BLL\obj\Debug\GMS.Crm.BLL.csprojResolveAssemblyReference.cache
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Crm.BLL\obj\Debug\GMS.Crm.BLL.dll
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Crm.BLL\obj\Debug\GMS.Crm.BLL.pdb

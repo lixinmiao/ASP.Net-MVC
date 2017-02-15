@@ -1,0 +1,5 @@
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Account.DAL.dll
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Account.DAL.pdb
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.csprojResolveAssemblyReference.cache
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.dll
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.pdb

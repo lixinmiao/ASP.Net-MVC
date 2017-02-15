@@ -1,0 +1,6 @@
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Framework.Utility.XML
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Framework.Utility.dll
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Framework.Utility.pdb
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Framework.Utility\obj\Debug\GMS.Framework.Utility.dll
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Framework.Utility\obj\Debug\GMS.Framework.Utility.pdb
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Framework.Utility\obj\Debug\GMS.Framework.Utility.csprojResolveAssemblyReference.cache

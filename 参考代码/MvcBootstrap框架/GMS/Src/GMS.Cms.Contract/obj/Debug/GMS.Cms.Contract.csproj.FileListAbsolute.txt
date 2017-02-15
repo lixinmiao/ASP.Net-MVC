@@ -1,0 +1,5 @@
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Cms.Contract.dll
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Cms.Contract.pdb
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Cms.Contract\obj\Debug\GMS.Cms.Contract.dll
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Cms.Contract\obj\Debug\GMS.Cms.Contract.pdb
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Cms.Contract\obj\Debug\GMS.Cms.Contract.csprojResolveAssemblyReference.cache

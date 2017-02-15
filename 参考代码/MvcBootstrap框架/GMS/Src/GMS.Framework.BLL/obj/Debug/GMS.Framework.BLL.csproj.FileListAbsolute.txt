@@ -1,0 +1,5 @@
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Framework.BLL.XML
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Framework.BLL.dll
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\bin\GMS.Framework.BLL.pdb
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.dll
+G:\A002 MvcBootstrap框架\MvcBootstrap框架\GMS\Src\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.pdb
