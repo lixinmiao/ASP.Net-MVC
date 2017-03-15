@@ -1,0 +1,4 @@
+Enable-Migrations
+Enable-Migrations -ContextTypeName MFAdminASPNET.Models.MFAdminASPNETDB
+add-migration Initial
+update-database
